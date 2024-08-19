@@ -1,4 +1,4 @@
-##👋 Hi there and welcome to my GitHub page! 👋
+## 👋 Hi there and welcome to my GitHub page! 👋
 
 My name is Ben and I am a post-doctoral research fellow for the Group on Earth Observation's [Global Ecosystems Atlas Project](https://earthobservations.org/solutions/incubators/global-ecosystems-atlas), hosted and led by James Cook University's [Global Ecology Lab](https://www.globalecologylab.org/) 🌏 
 
